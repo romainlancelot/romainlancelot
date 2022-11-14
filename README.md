@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am currently a student at ESGI (Ecole Supérieure de Génie Infomatique) in apprenticeship at SACEM, in the CCoE (Cloud Center of Excellence) AWS team.
+
+This Github contains several of my school and personal projects.
+
+
+Don't be afraid to give me feedback if you see big mistakes : rlancelot@myges.fr 😉
+
 <!--
 **romainlancelot/romainlancelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
