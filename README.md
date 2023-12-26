@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">
+  
+  ![programing_gif](https://user-images.githubusercontent.com/91891487/182153577-7bdc2399-67b2-49da-80ab-5da2eb795551.gif)
+
+</h1>
+
+<h1 align="center">Hi there 👋</h1>
 
 I am currently a student at ESGI (Ecole Supérieure de Génie Infomatique) in apprenticeship at SACEM, in the CCoE (Cloud Center of Excellence) AWS team.
 
