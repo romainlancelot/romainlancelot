@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-I am currently a student at ESGI (Ecole Supérieure de Génie Infomatique) in apprenticeship at SACEM, in the CCoE (Cloud Center of Excellence) AWS team.
+I am currently a student at ESGI (Ecole Supérieure de Génie Infomatique) in apprenticeship at Google.
 
 This Github contains several of my school and personal projects.
 
